@@ -1,0 +1,17 @@
+body {
+    background-color: #5ca1d7;
+    color: white;
+    text-align: center;
+}
+ .title_hover{
+    font-family: sans-serif;
+}
+
+.title_hover:hover {
+    color: black;
+}
+
+footer p {
+    text-align: center;
+}
+
