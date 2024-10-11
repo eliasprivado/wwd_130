@@ -3,15 +3,39 @@ body {
     color: white;
     text-align: center;
 }
- .title_hover{
+ .title_hover {
     font-family: sans-serif;
+    font-size: 3em;
 }
 
 .title_hover:hover {
     color: black;
 }
+.quote1_end {
+    font-family: sans-serif;
+    font-weight: bold;
+}
 
+.list {
+    display: block;
+    text-align: left;
+    width: 30%;
+    padding: 0.5%;
+    margin: 0 auto;
+    color: black;
+    font-family: sans-serif;
+}
+#prophet {
+    width: 10%;
+}
+.quote2 {
+    font-size: 2em;
+    width: 22%;
+    margin: auto;
+}
 footer p {
     text-align: center;
+    color: black;
+    font-family: sans-serif;
 }
 
