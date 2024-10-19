@@ -1,0 +1,12 @@
+body {
+    background-color: gray;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.title-image {
+    width: 100%;
+}
+.circle-images {
+    width: 200px;
+}
